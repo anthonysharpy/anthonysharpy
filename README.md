@@ -13,6 +13,8 @@ I've been using C++ on-and-off for about 14 years now. The timeline of things I'
 - 2025: Low-latency order book and trading engine that replays, records and analyses trading data.
 - 2026: High-throughput Linux network packet sender/receiver that transmits market data via DPDK.
 
+---
+
 <table width="100%">
   <tr>
     <td width="33%"><video src="https://github.com/user-attachments/assets/3662676b-6a55-4e4b-8887-f429f30d5f1d" controls></video></td>
