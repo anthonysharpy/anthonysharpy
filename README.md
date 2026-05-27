@@ -13,5 +13,21 @@ I've been using C++ on-and-off for about 14 years now. The timeline of things I'
 - 2025: Low-latency order book and trading engine that replays, records and analyses trading data.
 - 2026: High-throughput Linux network packet sender/receiver that transmits market data via DPDK.
 
-https://github.com/user-attachments/assets/3662676b-6a55-4e4b-8887-f429f30d5f1d
-
+<table width="100%">
+  <tr>
+    <td width="33%"><video src="https://github.com/user-attachments/assets/3662676b-6a55-4e4b-8887-f429f30d5f1d" controls></video></td>
+    <td width="33%"><img width="1920" height="1080" alt="minecraft_bot_1" src="https://github.com/user-attachments/assets/55ed3709-2711-45f3-8a75-a73dc1af8cb1" /></td>
+    <td width="33%"><img width="1920" height="1080" alt="talisman_online_bot_1" src="https://github.com/user-attachments/assets/84ec5d68-418c-4484-aa8d-8f18300a16f6" />
+</td>
+  </tr>
+  <tr>
+    <td width="33%"><video src="https://github.com/user-attachments/assets/8506adfb-ee69-4aad-b594-e31096545833" controls></video></td>
+    <td width="33%"><video src="https://github.com/user-attachments/assets/7d85a0ef-254d-4ae4-8370-fbe490d7b7f5" controls></video></td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
+    <td width="33%"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
