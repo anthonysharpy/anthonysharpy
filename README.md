@@ -17,7 +17,7 @@ I've been using C++ on-and-off for about 14 years now. The timeline of things I'
 
 <table width="100%">
   <tr>
-    <td width="30%"><img src="https://github.com/user-attachments/assets/1e000917-dc28-4c53-ad79-be2f5199f0fd" /></td>
+    <td width="30%"><img src="https://github.com/user-attachments/assets/476685b4-7f92-4ff3-a103-eb5f21e7eb4d" /></td>
     <td width="30%"><img src="https://github.com/user-attachments/assets/354aaa2c-991e-44d3-8540-388cdeb0896b" /></td>
   </tr>
   <tr>
