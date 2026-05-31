@@ -1,10 +1,6 @@
-# Me
+I'm Anthony, a C++ systems engineer focused on low-latency systems, with 5 years' commercial fintech experience (Go/C# etc). I've been using C++ on-and-off for about 14 years now:
 
-I'm Anthony, a software engineer with 5 years' commercial experience looking for C++/Rust/low-latency systems roles in Japan.
-
-I've been using C++ on-and-off for about 14 years now. The timeline of things I've made in C++ looks like this:
-
-- 2012: Small 3D OpenGL games, like rooms you could walk around in and a Led Zeppelin-inspired version of Guitar Hero.
+- 2012: Small 3D OpenGL games, like rooms you could walk around in and a Led Zeppelin-inspired mockup of Guitar Hero.
 - 2016: 3D Unreal Engine game where flying enemy robots harvested resources from the world, replicating themselves. 
 - 2017: 2D demo where you could control ants underground - plus some water physics.
 - 2018: Bot that could read game memory and perform actions on screen in order to play my favourite MMORPG Talisman Online for me while I was away.
@@ -12,8 +8,8 @@ I've been using C++ on-and-off for about 14 years now. The timeline of things I'
 - 2021: Multiple contributions to the GCC C++ compiler.
 - 2025: Low-latency order book and trading engine that replays, records and analyses trading data.
 - 2026: High-throughput Linux network packet sender/receiver that transmits market data via DPDK.
-- Now: Trying to bring my knowledge up to expert level by studying every day!
 
+<!--
 <h3 align="center">Gallery</h3>
 
 <table width="100%">
@@ -48,3 +44,4 @@ I've been using C++ on-and-off for about 14 years now. The timeline of things I'
     <td width="30%"></td>
   </tr>
 </table>
+-->
