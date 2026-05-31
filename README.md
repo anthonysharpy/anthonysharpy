@@ -5,9 +5,9 @@ I'm Anthony, a C++ systems engineer focused on low-latency systems, with 5 years
 - 2017: 2D demo where you could control ants underground - plus some water physics.
 - 2018: Bot that could read game memory and perform actions on screen in order to play my favourite MMORPG Talisman Online for me while I was away.
 - 2019: Convolutional neural network that could learn to kill pigs in Minecraft by reading the screen's pixels.  
-- 2021: Multiple contributions to the GCC C++ compiler.
-- 2025: Low-latency order book and trading engine that replays, records and analyses trading data.
-- 2026: High-throughput Linux network packet sender/receiver that transmits market data via DPDK.
+- 2021: **Multiple contributions to the GCC C++ compiler**.
+- 2025: **Low-latency order book** and trading engine that replays, records and analyses trading data.
+- 2026: **High-throughput Linux network packet sender/receiver** that transmits market data via DPDK.
 
 <!--
 <h3 align="center">Gallery</h3>
